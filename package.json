@@ -22,6 +22,7 @@
     "tsc": "tsc",
     "lint": "eslint --cache .",
     "precommit": "npm run lint",
+    "start": "node app.js",
     "prepush": "npm test"
   },
   "bin": "./pokemon-showdown",
