@@ -1,1 +1,1 @@
-web: node app.js $PORT
+worker: node bot.js
